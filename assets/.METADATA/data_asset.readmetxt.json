@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "readme.txt",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-09-02T10:31:40Z",
+    "created": 1725273100293,
+    "asset_id": "data_asset.readmetxt",
+    "asset_attributes": [
+      "data_asset",
+      "directory_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/plain"
+    },
+    "directory_asset": {
+      "path": ""
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "readme.txt",
+      "mime": "text/plain",
+      "object_key": "data_asset/readme.txt",
+      "object_key_is_read_only": true,
+      "created_at": "2024-09-02T10:31:40Z",
+      "id": "85c63231-3530-443f-aa04-519cdf3fbfda",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
